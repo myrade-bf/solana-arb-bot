@@ -1,6 +1,6 @@
 > ⚠️ This bot can lead to loss of your funds, use at your own risk. Start with small amounts and protect your keys.
 
-> This README is not complete. Try asking the community on the [ARB Discord](https://discord.gg/Z8JJCuq4) if you have any questions.
+> This README is not complete.
 
 ---
 
