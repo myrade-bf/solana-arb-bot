@@ -15,7 +15,7 @@ This bot is an open-source CLI tool that allows you to automate your crypto trad
 
 ## nav
 
-### [features](#features) · [CLI UI](#cli-ui) · ⚡️[install](#install) · [quickstart](#quickstart) · [hotkeys](#hotkeys) · [contributing](#contributing) · [license](#license) · [risk](#risk-disclaimer)
+### [features](#features) · [CLI UI](#cli-ui) · [quickstart](#quickstart) · [hotkeys](#hotkeys) · [contributing](#contributing) · [license](#license) · [risk](#risk-disclaimer)
 
 ---
 
@@ -55,14 +55,6 @@ This bot is an open-source CLI tool that allows you to automate your crypto trad
 CLI UI currently displays a simulated profit chart and latency chart. The latency chart shows you the time taken to compute routes with Jupiter SDK.
 
 All trades are stored in trades history and will be shown in the table. Table is limited to 5 entries, but history stores all trades.
-
-💡 UI elements can be hidden or shown using [hotkeys](#hotkeys).
-
-![](https://github.com/arbprotocol/solana-jupiter-bot/blob/main/.gifs/wizard.gif)
-
-![](https://github.com/arbprotocol/solana-jupiter-bot/blob/main/.gifs/bot.gif)
-
-![](https://github.com/arbprotocol/solana-jupiter-bot/blob/main/.gifs/history.gif)
 
 · [back to top](#nav) ·
 
